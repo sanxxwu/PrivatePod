@@ -16,7 +16,6 @@
 		D06945551EA8AB18000CB28B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D06945531EA8AB18000CB28B /* LaunchScreen.storyboard */; };
 		D06945601EA8ADA8000CB28B /* NSArray+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = D069455F1EA8ADA8000CB28B /* NSArray+Extension.m */; };
 		D06945631EA8ADB7000CB28B /* NSDictionary+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = D06945621EA8ADB7000CB28B /* NSDictionary+Extension.m */; };
-		D06945661EA8ADC7000CB28B /* AppDelegate+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = D06945651EA8ADC7000CB28B /* AppDelegate+Extension.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,8 +36,6 @@
 		D069455F1EA8ADA8000CB28B /* NSArray+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Extension.m"; sourceTree = "<group>"; };
 		D06945611EA8ADB7000CB28B /* NSDictionary+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+Extension.h"; sourceTree = "<group>"; };
 		D06945621EA8ADB7000CB28B /* NSDictionary+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+Extension.m"; sourceTree = "<group>"; };
-		D06945641EA8ADC7000CB28B /* AppDelegate+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AppDelegate+Extension.h"; sourceTree = "<group>"; };
-		D06945651EA8ADC7000CB28B /* AppDelegate+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AppDelegate+Extension.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,8 +109,6 @@
 				D069455F1EA8ADA8000CB28B /* NSArray+Extension.m */,
 				D06945611EA8ADB7000CB28B /* NSDictionary+Extension.h */,
 				D06945621EA8ADB7000CB28B /* NSDictionary+Extension.m */,
-				D06945641EA8ADC7000CB28B /* AppDelegate+Extension.h */,
-				D06945651EA8ADC7000CB28B /* AppDelegate+Extension.m */,
 			);
 			path = Category;
 			sourceTree = "<group>";
@@ -250,7 +245,6 @@
 			files = (
 				D06945631EA8ADB7000CB28B /* NSDictionary+Extension.m in Sources */,
 				D069454D1EA8AB18000CB28B /* ViewController.m in Sources */,
-				D06945661EA8ADC7000CB28B /* AppDelegate+Extension.m in Sources */,
 				D069454A1EA8AB18000CB28B /* AppDelegate.m in Sources */,
 				D06945601EA8ADA8000CB28B /* NSArray+Extension.m in Sources */,
 				D06945471EA8AB18000CB28B /* main.m in Sources */,
