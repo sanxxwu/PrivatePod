@@ -13,5 +13,9 @@
 @property (strong, nonatomic) UIWindow *window;
 
 
+
+
+@property (nonatomic, strong) NSString *ss;
+
 @end
 
